@@ -15,7 +15,7 @@
 
 <br>
 
-<p align="center"><img src="assets/reel.webp" alt="Scroll Lab demos playing one after another" width="800"></p>
+<p align="center"><img src="assets/reel.avif" alt="Scroll Lab demos playing one after another" width="800"></p>
 
 <br>
 
